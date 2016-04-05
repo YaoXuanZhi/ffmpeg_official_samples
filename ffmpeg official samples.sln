@@ -33,6 +33,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "scaling_video", "scaling_vi
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "transcode_aac", "transcode_aac\transcode_aac.vcxproj", "{0B8C7440-CD93-4BEA-99B7-ECC0E9163DD6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "railgun", "railgun\railgun.vcxproj", "{8033F5B4-1B8D-4A13-97B7-10F0950C5615}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -99,6 +101,10 @@ Global
 		{0B8C7440-CD93-4BEA-99B7-ECC0E9163DD6}.Debug|Win32.Build.0 = Debug|Win32
 		{0B8C7440-CD93-4BEA-99B7-ECC0E9163DD6}.Release|Win32.ActiveCfg = Release|Win32
 		{0B8C7440-CD93-4BEA-99B7-ECC0E9163DD6}.Release|Win32.Build.0 = Release|Win32
+		{8033F5B4-1B8D-4A13-97B7-10F0950C5615}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8033F5B4-1B8D-4A13-97B7-10F0950C5615}.Debug|Win32.Build.0 = Debug|Win32
+		{8033F5B4-1B8D-4A13-97B7-10F0950C5615}.Release|Win32.ActiveCfg = Release|Win32
+		{8033F5B4-1B8D-4A13-97B7-10F0950C5615}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
